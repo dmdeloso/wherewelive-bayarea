@@ -1,0 +1,10 @@
+#map { 
+    height: 50vw; 
+    width: 90vw;
+    margin: auto;
+}
+.intro{
+    width: 90vw;
+    font-family: sans-serif;
+    margin: auto;
+}
